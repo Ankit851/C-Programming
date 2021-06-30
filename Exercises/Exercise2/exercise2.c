@@ -1,8 +1,7 @@
 /*
-        Author : Ankit Mahajan
-        Purpose : Units and Conversions
-        Date : 30th June 2021
+    Purpose : Units and Conversions
 */
+
 #include<stdio.h>
 int main()
 {   int choice,mass,kgs;
